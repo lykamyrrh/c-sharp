@@ -13,6 +13,7 @@ This program addresses the need for a simple and efficient way to manage employe
 In summary, this program serves as a basic, yet functional, tool for managing employee records, making data management more organized and accessible.
 
 The problems it solves include:
+
 Organizing Employee Data: It provides a centralized way to store employee details, making it easy to retrieve, update, or delete information.
 
 Avoiding Manual Data Management: By automating common tasks like listing employees or editing their information, it reduces the potential for errors compared to managing data manually (e.g., using spreadsheets or paper records).
